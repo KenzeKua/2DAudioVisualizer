@@ -13,5 +13,5 @@ Please ignore the other mp3 files as they are only used for educational purposes
 • Main location for the shader editing is within the file "fragmentShader1.frag". You can edit this using Notepad++. 
 
 == Audio Visualizer Theory ==  
-• Read more on how I design the sound frequency over here https://github.com/KenzeKua/AudioVisualizer/blob/main/README.md  
+• Read more on how I design the sound frequency over here: https://github.com/KenzeKua/AudioVisualizer/blob/main/README.md  
 • How reactive the sound visualizer can be: https://caynyian.itch.io/opengl-audio-visualiser  
