@@ -1,0 +1,15 @@
+﻿  demo.cpp
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(193,65): warning C4474: 'printf' : too many arguments passed for format string
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(193,65): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(210,69): warning C4474: 'printf' : too many arguments passed for format string
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(210,69): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(268,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(273,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(278,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(288,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(298,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(308,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(318,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(328,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\shader_texturing\demo.cpp(338,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  shader_texturing.vcxproj -> D:\KDU\[Dated] 2020-1\3D Game Programming\git_2DAudioVisualizer\2DAudioVisualizer\shader_texturing0\Debug\shader_texturing.exe
