@@ -5,7 +5,9 @@ This application is made by Kenze Kua as a student, and is non-commercial.
 If there are any queries or questions, you may contact the owner of this repository or via kenzekua+github@gmail.com  
 
 Main music used: Smith the Mister - Mitsubachi  
-Please ignore the other mp3 files as they are only used for educational purposes.  
+Other mp3 files are used for educational purposes.  
+
+Itch.Io : https://caynyian.itch.io/2d-audio-visualizer
 
 == Instructions ==  
 • Connect the linkers to the SDKs: gles2, and FmodEx  
